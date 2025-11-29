@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'gavfu/chzhshch-blog'
+    if: github.repository == 'chanxishe/chzhshch-blog'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
