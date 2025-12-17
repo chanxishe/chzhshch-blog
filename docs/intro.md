@@ -32,7 +32,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 本站将在本人力所能及的前提下长期存在，您也可以通过以下方式表达支持：
 
 - 通过 [Telegram](https://t.me/chzhshchblog) 反馈相关文档错误或疏漏
-- 关注微信公众号，防止失联<br/>
+- 加星收藏 [Github 源码库](https://github.com/chanxishe/chzhshch-blog)
+- 关注微信公众号，一起交流原文和探讨缠论操作<br/>
   <img src={useBaseUrl('/img/chanxishe.png')} style={{marginTop: '50', width: 260}} /><br/>
 - <img src={useBaseUrl('/img/fire.png')} style={{marginTop: 10, width: 25, height: 25}} />[捐赠](./donate.md)
 - 点击网站广告

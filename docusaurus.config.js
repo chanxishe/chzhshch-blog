@@ -250,13 +250,13 @@ const config = {
             position: 'right',
             label: '捐赠',
           },
-          // {
-          //   href: 'https://github.com/chanxishe/chzhshch-blog',
-          //   // label: 'GitHub',
-          //   position: 'right',
-          //   className: 'header-github-link',
-          //   'aria-label': 'GitHub Repository'
-          // },
+          {
+            href: 'https://github.com/chanxishe/chzhshch-blog',
+            // label: 'GitHub',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub Repository'
+          },
           {
             href: 'https://t.me/chzhshchblog',
             // label: '反馈',
